@@ -1,0 +1,9 @@
+/*we use dot for class*/
+p{
+color: blue;
+font-size:40px;
+}
+/*we use dot for class*/
+.my-p{
+    color: rgb(100, 100, 0);
+}

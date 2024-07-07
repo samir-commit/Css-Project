@@ -1,0 +1,31 @@
+/* body{
+} */
+/*padding الهامش الداخلي
+margin الهامش االخارجي
+border الخواف
+*/
+
+div{
+    /* color: purple;
+    background-image: url(bg.png); 
+    background-size: cover;
+    text-align: center; */
+    background-color: rgba(192, 192, 192,50%);
+    /*Top Right Buttom left*/
+    /* padding: 10px; */
+    padding: 10px 20px; 
+    /* margin: 10px; */
+    /*in thcase we want toput div element in the middle*/
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    /* border-width:6px ;
+    border-color: transparent transparent transparent green ;
+    border-style:solid; */
+    border: 10px solid green ;
+
+}
+/* .test {
+    color:chartreuse;
+    background-color: rgb(0, 0, 0);
+} */

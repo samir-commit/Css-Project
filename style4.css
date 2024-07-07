@@ -1,0 +1,31 @@
+/*
+-block
+
+-take full width
+-add line break
+-respect padding margin width.
+
+-inline
+
+-do not respect padding margin width 
+-Respect padding and margin {just left + right}
+-do not add line break.
+
+- inline block
+
+-Allow Element Before and After It
+-respect padding margin width 
+*/
+div{
+    background-color: #ffffff;
+    /* padding: 10px; 
+    margin: 10px; */
+} 
+span{
+    background-color: #c0c0c0;
+    display: inline-block;
+    padding: 20px; 
+    margin: 20px;
+    width: 300px;
+    height: 50px;
+}
